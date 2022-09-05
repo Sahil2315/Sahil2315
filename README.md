@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Develpoment and Programming using C, C++, Python 
 - 🌱 I’m currently learning Backend Web Dev Using Express JS
 - 💞️ I’m looking to collaborate on Web Development and other Projects like Python Tkinter and Visual Studio
-- 📫 How to reach me Email: 153sahilnigam@gmail.com
+- 📫 Reach Me: 153sahilnigam@gmail.com
 
 <!---
 Sahil2315/Sahil2315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
