@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahil Nigam
-- 👀 I’m interested in Full Stack Software Develpoment and Programming using C, C++, Python 
+- 👀 I’m interested in Full Stack Software Develpoment and Programming using Python, C and C++
 - 🌱 I’m currently learning Full Stack Dev Using Node JS (Express JS, socket.io, MySQL, PostgreSQL) and React JS
 - 💞️ I’m looking to collaborate on Web Development, React Native App Dev and other Projects like Python Tkinter and Visual Studio
 - 📫 Reach Me: 153sahilnigam@gmail.com
